@@ -1,7 +1,7 @@
 Asciime - ASCII and Braille Image Accessibility Converter
 =========================================================
 
-Asciime is a Python-based accessibility tool that converts images into ASCII art and generates alt text using Braille characters. It aims to support visually impaired users by making image content more accessible. It also evaluates image contrast and includes a playful feature: sharing a random cat fact if cat-related keywords are found in the description.
+Asciime is a Python-based accessibility tool that converts images into ASCII art and generates alt text using Braille characters. It aims to support users with visual impairments by making image content more accessible. It also evaluates image contrast and includes a playful feature: sharing a random cat fact if cat-related keywords are found in the description.
 
 ---------------------------------------------------------
 System Requirements
